@@ -144,13 +144,13 @@ h1,h2,h3{
     }
 }
 
-/*.servicios,
+.servicios,
 .navegacion-principal,
 .contenedor-campos{
     scroll-snap-align: center;
     scroll-snap-stop: always;
 }
-*/
+
 
 @media (min-width: 768px) {
     .servicios{
